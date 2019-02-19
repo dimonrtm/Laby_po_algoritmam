@@ -1,0 +1,5 @@
+C:\Users\админъ\Desktop\MyProgram\алгоритмы\Zadacha_kommivoyajora\Zadacha_kommivoyajora\bin\Debug\Zadacha_kommivoyajora.exe.config
+C:\Users\админъ\Desktop\MyProgram\алгоритмы\Zadacha_kommivoyajora\Zadacha_kommivoyajora\bin\Debug\Zadacha_kommivoyajora.exe
+C:\Users\админъ\Desktop\MyProgram\алгоритмы\Zadacha_kommivoyajora\Zadacha_kommivoyajora\bin\Debug\Zadacha_kommivoyajora.pdb
+C:\Users\админъ\Desktop\MyProgram\алгоритмы\Zadacha_kommivoyajora\Zadacha_kommivoyajora\obj\Debug\Zadacha_kommivoyajora.exe
+C:\Users\админъ\Desktop\MyProgram\алгоритмы\Zadacha_kommivoyajora\Zadacha_kommivoyajora\obj\Debug\Zadacha_kommivoyajora.pdb

@@ -1,0 +1,6 @@
+C:\Users\админъ\Desktop\MyProgram\алгоритмы\Zadacha_algoritmy\Zadacha_algoritmy\bin\Debug\Zadacha_algoritmy.exe.config
+C:\Users\админъ\Desktop\MyProgram\алгоритмы\Zadacha_algoritmy\Zadacha_algoritmy\bin\Debug\Zadacha_algoritmy.exe
+C:\Users\админъ\Desktop\MyProgram\алгоритмы\Zadacha_algoritmy\Zadacha_algoritmy\bin\Debug\Zadacha_algoritmy.pdb
+C:\Users\админъ\Desktop\MyProgram\алгоритмы\Zadacha_algoritmy\Zadacha_algoritmy\obj\Debug\Zadacha_algoritmy.exe
+C:\Users\админъ\Desktop\MyProgram\алгоритмы\Zadacha_algoritmy\Zadacha_algoritmy\obj\Debug\Zadacha_algoritmy.pdb
+C:\Users\админъ\Desktop\MyProgram\алгоритмы\Zadacha_algoritmy\Zadacha_algoritmy\obj\Debug\Zadacha_algoritmy.csprojResolveAssemblyReference.cache

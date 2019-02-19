@@ -1,0 +1,5 @@
+C:\Users\админъ\Desktop\MyProgram\алгоритмы\Knapsuck\Knapsuck\bin\Debug\Knapsuck.exe.config
+C:\Users\админъ\Desktop\MyProgram\алгоритмы\Knapsuck\Knapsuck\bin\Debug\Knapsuck.exe
+C:\Users\админъ\Desktop\MyProgram\алгоритмы\Knapsuck\Knapsuck\bin\Debug\Knapsuck.pdb
+C:\Users\админъ\Desktop\MyProgram\алгоритмы\Knapsuck\Knapsuck\obj\Debug\Knapsuck.exe
+C:\Users\админъ\Desktop\MyProgram\алгоритмы\Knapsuck\Knapsuck\obj\Debug\Knapsuck.pdb

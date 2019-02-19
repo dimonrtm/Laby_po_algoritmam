@@ -1,0 +1,5 @@
+C:\Users\админъ\Desktop\MyProgram\алгоритмы\proverka_prostyh_chisel\proverka_prostyh_chisel\bin\Debug\proverka_prostyh_chisel.exe.config
+C:\Users\админъ\Desktop\MyProgram\алгоритмы\proverka_prostyh_chisel\proverka_prostyh_chisel\bin\Debug\proverka_prostyh_chisel.exe
+C:\Users\админъ\Desktop\MyProgram\алгоритмы\proverka_prostyh_chisel\proverka_prostyh_chisel\bin\Debug\proverka_prostyh_chisel.pdb
+C:\Users\админъ\Desktop\MyProgram\алгоритмы\proverka_prostyh_chisel\proverka_prostyh_chisel\obj\Debug\proverka_prostyh_chisel.exe
+C:\Users\админъ\Desktop\MyProgram\алгоритмы\proverka_prostyh_chisel\proverka_prostyh_chisel\obj\Debug\proverka_prostyh_chisel.pdb
